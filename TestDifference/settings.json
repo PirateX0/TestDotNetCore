@@ -1,0 +1,7 @@
+﻿{
+  "db": {
+    "type": "sql server",
+    "ip": "localhost"
+  }
+
+}
